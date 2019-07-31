@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/deployMagic/static/css/main.05529f43.chunk.css",
+    "main.js": "/deployMagic/static/js/main.9a095848.chunk.js",
+    "main.js.map": "/deployMagic/static/js/main.9a095848.chunk.js.map",
+    "runtime~main.js": "/deployMagic/static/js/runtime~main.e5d9211e.js",
+    "runtime~main.js.map": "/deployMagic/static/js/runtime~main.e5d9211e.js.map",
+    "static/js/2.631e91b0.chunk.js": "/deployMagic/static/js/2.631e91b0.chunk.js",
+    "static/js/2.631e91b0.chunk.js.map": "/deployMagic/static/js/2.631e91b0.chunk.js.map",
+    "index.html": "/deployMagic/index.html",
+    "precache-manifest.3a8d9ddce5b43eaad485fdb7e14f4f75.js": "/deployMagic/precache-manifest.3a8d9ddce5b43eaad485fdb7e14f4f75.js",
+    "service-worker.js": "/deployMagic/service-worker.js",
+    "static/css/main.05529f43.chunk.css.map": "/deployMagic/static/css/main.05529f43.chunk.css.map",
+    "static/media/alanna_heroPic.jpg": "/deployMagic/static/media/alanna_heroPic.6704307a.jpg",
+    "static/media/reference_Karen.jpg": "/deployMagic/static/media/reference_Karen.efd8a1fa.jpg",
+    "static/media/sayKaren_Logo_transparent_7.2019.png": "/deployMagic/static/media/sayKaren_Logo_transparent_7.2019.4ee98378.png"
+  }
+}
