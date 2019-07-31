@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5a253488480c4c2d92d0dfec570f23d",
+    "revision": "2704dad5a671a4f3c010ede2f53eade6",
     "url": "/deployMagic/index.html"
   },
   {
